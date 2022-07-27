@@ -84,7 +84,7 @@ ___
 | `bedrooms` /  `bedroomcnt`                      |    Number of bedrooms in home                                                                                           |                                        | float64          |
 | `sqft` / `calculatedfinishedsquarefeet`  |    Calculated total finished living area of the home                                                                    |                                        | float64          |
 |   `fips`        |    Federal Information Processing Standard code  |                                        | float64 /  int64 |
-|   `lotsizesquarefeet`                           |    Area of the lot in square feet                                                                                       |                                        | float64          |
+
 | `cost_per_sqft`                                      | Unique identifier for parcels (lots)                                                                                    |                                        | int64            |
 |   `yearbuilt`                                   |    The Year the principal residence was built                                                                           |                                        | float64 /  int64 |
 | `home_value` / `taxvaluedollarcnt`              |   The total tax assessed value of the parcel                                                                            |                                        | float64          |
@@ -94,28 +94,16 @@ ___
 ___
 # <a name="workflow"></a>Workflow
 
-1. [Prep Your Repo](#prep-your-repo)
-1. [Import](#import)
-1. [Acquire Data](#acquire-data)
-1. [Clean, Prep & Split Data](#clean-prep-and-split-data)
-1. [Explore Data](#explore-data)
-    - [Hypothesis Testing](#hypothesis-testing)
-1. [Evaluate Data](#evaluate-data)
-1. [Modeling](#modeling)
-    - [Identify Baseline](#identify-baseline)
-    - [Train / Validate](#train-validate)
-    - [Test](#test)
-    
-- [Requested Data](#requested-data)
-
-8. [2nd Iteration: Acquire Data](#2nd-iteration-acquire-data)
-9. [2nd Iteration: Clean, Prep & Split Data](#2nd-iteration-clean-prep-and-split-data)
-10. [2nd Iteration: Explore Data](#2nd-iteration-explore-data)
-    - [2nd Iteration: Hypothesis Testing](#2nd-iteration-hypothesis-testing)
-11. [2nd Iteration: Modeling](#2nd-iteration-modeling)
-    - [2nd Iteration: Identify Baseline](#2nd-iteration-identify-baseline)
-    - [2nd Iteration: Train / Validate](#2nd-iteration-train-validate)
-    - [2nd Iteration: Test](#2nd-iteration-test)
+1. #prep-your-repo)
+1. #import)
+1. #acquire-data)
+1. #clean-prep-and-split-data)
+1. #explore-data)
+    - #hypothesis-testing)
+1. evaluate-data)
+1. #modeling)
+    - identify-baseline)
+    - train-validate)
+    - test)
     
 
-[Jump to Navigation](#navigation)
