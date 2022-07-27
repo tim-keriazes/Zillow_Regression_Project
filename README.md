@@ -84,7 +84,6 @@ ___
 | `bedrooms` /  `bedroomcnt`                      |    Number of bedrooms in home                                                                                           |                                        | float64          |
 | `sqft` / `calculatedfinishedsquarefeet`  |    Calculated total finished living area of the home                                                                    |                                        | float64          |
 |   `fips`        |    Federal Information Processing Standard code  |                                        | float64 /  int64 |
-
 | `cost_per_sqft`                                      | Unique identifier for parcels (lots)                                                                                    |                                        | int64            |
 |   `yearbuilt`                                   |    The Year the principal residence was built                                                                           |                                        | float64 /  int64 |
 | `home_value` / `taxvaluedollarcnt`              |   The total tax assessed value of the parcel                                                                            |                                        | float64          |
