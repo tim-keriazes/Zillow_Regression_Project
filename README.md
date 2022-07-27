@@ -83,7 +83,7 @@ ___
 | `bathrooms` / `bathroomcnt`                     |    Number of bathrooms in home including fractional bathrooms                                                           |                                        | float64          |
 | `bedrooms` /  `bedroomcnt`                      |    Number of bedrooms in home                                                                                           |                                        | float64          |
 | `sqft` / `calculatedfinishedsquarefeet`  |    Calculated total finished living area of the home                                                                    |                                        | float64          |
-|   `fips`                                        |    Federal Information Processing Standard code  |                                        | float64 /  int64 |
+|   `fips`        |    Federal Information Processing Standard code  |                                        | float64 /  int64 |
 |   `lotsizesquarefeet`                           |    Area of the lot in square feet                                                                                       |                                        | float64          |
 | `cost_per_sqft`                                      | Unique identifier for parcels (lots)                                                                                    |                                        | int64            |
 |   `yearbuilt`                                   |    The Year the principal residence was built                                                                           |                                        | float64 /  int64 |
@@ -93,8 +93,6 @@ ___
 
 ___
 # <a name="workflow"></a>Workflow
-
-Please pull my repo first to use the following links to guide you through the data science pipeline. Enjoy!
 
 1. [Prep Your Repo](#prep-your-repo)
 1. [Import](#import)
