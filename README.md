@@ -93,10 +93,10 @@ ___
 ___
 # <a name="workflow"></a>Workflow
 
-1. prep-your-repo
-1. import all necessary libraries and additional python files (aqcuire.py, wrangle.py, prepare.py, model_zillow.py, explore.py, which are available for reference in my repo)
-1. acquire-data
-1. clean-prep-and-split-data
+1. prep-your-repo (env file and gir ignore to utilize mysql credentials)
+1. import all necessary libraries and additional python files (wrangle.py which is available for reference in my repo)
+1. acquire-data (wrangle.py)
+1. clean-prep-and-split-data (wrangle.py)
 1. explore-data
     - hypothesis-testing
 1. evaluate-data
