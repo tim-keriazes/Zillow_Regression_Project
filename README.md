@@ -70,9 +70,9 @@ ___
 # <a name="take-aways"></a>Take Aways
 A more robust combination of cleaned and wrangeled data/features worked best with the regression models.
 
-Summary¶
+In Summary:
 Following the evaluation of the different models using my selected features, I found that the best performing model was the Polynomial Regressor with degrees = 2
-Looks like it performs best when above the median home value, and much worse below the median value
+It performs best when above the median home value.
 
 Mean home value = $380,196
 Mean square footage = 1774
